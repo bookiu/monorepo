@@ -8,3 +8,4 @@
 | -------- | ----------------------------- |
 | `/dockerfiles` | 用于存放镜像构建的 `Dockerfile` |
 | `/demo-app` | 一个使用 `Flask` 开发的**Hello World**应用 |
+| `/bookstore` | 一个使用 `Go` 开发的**Hello World**应用 |
